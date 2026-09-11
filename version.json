@@ -1,0 +1,19 @@
+{
+    "version": "2.7.2",
+    "version_code": 272,
+    "min_supported_version": "2.5.0",
+    "release_date": "2026-09-11",
+    "title": "Bản cập nhật v2.7.2 - Tối ưu điều khiển di động",
+    "changelog": [
+        "Dịch chuyển nút Joystick ảo sang phải 40px",
+        "Hỗ trợ Safe Area chống che viền bo tròn",
+        "Sửa lỗi mạng đăng ký đăng nhập trên điện thoại",
+        "Đồng bộ đa nền tảng v2.7.2"
+    ],
+    "patch_type": "pck",
+    "pck_url": "https://github.com/manhnt04/bronaruto-game/releases/download/v2.7.2/Bronaruto.pck",
+    "pck_size_bytes": 210381288,
+    "pck_sha256": "EE23226A7141BFADAA497F1E4518AA3A39EC57F5689310A0E9734E4FC16058CA",
+    "setup_url": "https://github.com/manhnt04/bronaruto-game/releases/download/v2.7.2/Bronaruto_v2.7.2_Setup.exe",
+    "mandatory": true
+}
